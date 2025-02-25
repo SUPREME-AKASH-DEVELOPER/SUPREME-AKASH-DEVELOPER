@@ -25,9 +25,9 @@ I am passionate about technology and innovation, with hands-on experience in bot
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SUPREME-AKASH-DEVELOPER"><img src="https://github-readme-stats.vercel.app/api?username=SUPREME-AKASH-DEVELOPER&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="SUPREME-AKASH-DEVELOPER's GitHub stats" /></a>
+<a href="http://www.github.com/SUPREME-AKASH-DEVELOPER"><img src="https://github-readme-stats.vercel.app/api?username=SUPREME-AKASH-DEVELOPER&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="SUPREME-AKASH-DEVELOPER's GitHub stats" /></a>
 
-<a href="http://www.github.com/SUPREME-AKASH-DEVELOPER"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SUPREME-AKASH-DEVELOPER&stroke=ffffff&background=181824&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SUPREME-AKASH-DEVELOPER"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SUPREME-AKASH-DEVELOPER&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
