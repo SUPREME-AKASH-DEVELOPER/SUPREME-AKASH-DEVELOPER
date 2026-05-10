@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Akash Lakhwan</h1>
+<div align="center">
 
-<h3 align="center">
+<h1>Hi 👋, I'm Akash Lakhwan</h1>
+
+<h3>
 Software Engineer | Full-Stack Developer | Problem Solver
 </h3>
 
-<h4 align="center">
+<h4>
 Java • C++ • React • Node.js • MongoDB
 </h4>
+
+</div>
 
 <br>
 
@@ -29,19 +33,19 @@ Open-source full-stack projects and innovative web applications
 
 <li>💬 Ask me about <b>C++, Java, JavaScript, React, Node.js, MongoDB, APIs, and DSA</b></li>
 
-<li>👨‍💻 Portfolio: 
+<li>👨‍💻 Portfolio:
 <a href="https://akash-portfolio-ashy.vercel.app/">
 akash-portfolio-ashy.vercel.app
 </a>
 </li>
 
-<li>📝 Articles: 
+<li>📝 Articles:
 <a href="https://dev.to/supremeakashdeveloper">
 dev.to/supremeakashdeveloper
 </a>
 </li>
 
-<li>📄 LinkedIn: 
+<li>📄 LinkedIn:
 <a href="https://www.linkedin.com/in/akash-lakhwan-5a729a250/">
 akash-lakhwan-5a729a250
 </a>
@@ -52,53 +56,35 @@ akash-lakhwan-5a729a250
 <li>⚡ Fun fact: <b>I enjoy learning by building projects from scratch, debugging systems, and experimenting with new technologies.</b></li>
 </ul>
 
-<br>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
 <a href="https://dev.to/supremeakashdeveloper" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-alt="Dev.to"
-height="35"
-width="35" />
+<img src="https://skillicons.dev/icons?i=devto" height="40" />
 </a>
 
 <a href="https://twitter.com/lakhwanakash" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="Twitter"
-height="35"
-width="35" />
+<img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 
 <a href="https://linkedin.com/in/akash-lakhwan-5a729a250" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="35"
-width="35" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="https://instagram.com/ak.ashhhhhhhhh" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="Instagram"
-height="35"
-width="35" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/akashlakhcv00/" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-alt="GeeksforGeeks"
-height="35"
-width="35" />
+<img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40" />
 </a>
+
 </p>
 
-<br>
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -108,7 +94,7 @@ width="35" />
 
 </p>
 
-<br>
+<br><br>
 
 <h3 align="left">Support:</h3>
 
@@ -116,7 +102,6 @@ width="35" />
 <a href="https://www.buymeacoffee.com/badalakki1t">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
 height="50"
-width="210"
 alt="Buy Me A Coffee" />
 </a>
 </p>
