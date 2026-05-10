@@ -58,23 +58,43 @@ akash-lakhwan-5a729a250
 
 <p align="left">
 <a href="https://dev.to/supremeakashdeveloper" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+alt="Dev.to"
+height="35"
+width="35" />
 </a>
 
 <a href="https://twitter.com/lakhwanakash" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+alt="Twitter"
+height="35"
+width="35" />
 </a>
 
 <a href="https://linkedin.com/in/akash-lakhwan-5a729a250" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn"
+height="35"
+width="35" />
 </a>
 
 <a href="https://instagram.com/ak.ashhhhhhhhh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="Instagram"
+height="35"
+width="35" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/akashlakhcv00/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+alt="GeeksforGeeks"
+height="35"
+width="35" />
 </a>
 </p>
 
@@ -83,7 +103,9 @@ akash-lakhwan-5a729a250
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,react,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,html,css,git,github,postman,tensorflow,azure,gcp" />
+
 </p>
 
 <br>
